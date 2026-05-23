@@ -87,6 +87,3 @@ curl http://127.0.0.1:8000/result/<job_id>
 - The Whisper model is loaded once at startup for improved performance.
 - The service currently saves uploads as `.mp3` files, so incoming audio should be compatible with that format.
 
-## License
-
-This project is provided as-is.
